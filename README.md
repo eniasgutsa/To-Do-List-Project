@@ -1,0 +1,1 @@
+The project was done using the python framework Django. It is a simple application in which the user can add and delete tasks to be done. It helps individuals to be updated and follow specific schedules.
